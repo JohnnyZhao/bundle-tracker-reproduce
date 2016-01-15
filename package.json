@@ -6,7 +6,6 @@
   "dependencies": {
     "css-loader": "^0.23.1",
     "style-loader": "^0.13.0",
-    "webpack": "^1.12.11",
     "webpack-bundle-tracker": "^0.0.9",
     "i18n-webpack-plugin": "^0.2.7"
   },

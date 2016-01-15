@@ -2,6 +2,8 @@
 
 ### setup
 
+First, you should have webpack installed
+
 ```
 npm install
 ```
