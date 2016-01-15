@@ -14,7 +14,7 @@ module.exports = Object.keys(languages).map(function(language) {
         entry: "./entry.js",
         output: {
             path: __dirname,
-            filename: "bundle_" + language + ".js"
+            filename: "./assets/bundle_" + language + ".js"
         },
         module: {
             loaders: [
