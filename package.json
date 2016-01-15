@@ -1,0 +1,27 @@
+{
+  "name": "bundle-tracker-reproduce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.11",
+    "webpack-bundle-tracker": "^0.0.9",
+    "i18n-webpack-plugin": "^0.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnyZhao/bundle-tracker-reproduce.git"
+  },
+  "author": "JohnnyZhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnnyZhao/bundle-tracker-reproduce/issues"
+  },
+  "homepage": "https://github.com/JohnnyZhao/bundle-tracker-reproduce#readme"
+}
