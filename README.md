@@ -4,6 +4,8 @@
 
 First, you should have webpack installed
 
+Then, install webpack bundle tracker and other dependencies:
+
 ```
 npm install
 ```
@@ -14,7 +16,7 @@ npm install
 webpack
 ```
 
-After build, there are two bundle files generate in folder assets:
+I use an [i18n plugin](https://github.com/webpack/webpack/tree/master/examples/i18n) to generate multiple bundle js files for string translation, so in this case after build, there are two bundle files generate under folder assets:
 
 ```
 assets/bundle_en.js
